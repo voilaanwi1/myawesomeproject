@@ -1,0 +1,2 @@
+This is the first line of my awesome project
+addition to file
